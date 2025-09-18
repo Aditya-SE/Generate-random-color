@@ -11,9 +11,9 @@ This is a simple web project that allows users to generate random background col
 ## Project Structure
 ```
 Generate Random Color
-├── index.html 
-├── style.css
-└── app.js
+|-- index.html 
+|-- style.css
+|--app.js
 ```
 ## Tech Stack
 
